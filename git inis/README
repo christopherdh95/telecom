@@ -1,0 +1,7 @@
+.class Landroid/telecom/RemoteConnectionService$3;
+2	.super Landroid/telecom/RemoteConnection$Callback;
+3	.source "RemoteConnectionService.java"
+4	
+5	
+6	# annotations
+7	.annotation system Ldalvik/annotation/EnclosingMethod;
